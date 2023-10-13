@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\siphamandla.zolakhe\\OneDrive - DSV\\Old-Personal-Hdrive\\DevOps\\Learning\\dotnet\\awssqs\\sqspublisher\\sqspublisher.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\siphamandla.zolakhe\\OneDrive - DSV\\Old-Personal-Hdrive\\DevOps\\Learning\\dotnet\\awssqs\\sqspublisher\\sqspublisher.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\siphamandla.zolakhe\\OneDrive - DSV\\Old-Personal-Hdrive\\DevOps\\Learning\\dotnet\\awssqs\\sqspublisher\\sqspublisher.csproj",
+        "projectName": "sqspublisher",
+        "projectPath": "C:\\Users\\siphamandla.zolakhe\\OneDrive - DSV\\Old-Personal-Hdrive\\DevOps\\Learning\\dotnet\\awssqs\\sqspublisher\\sqspublisher.csproj",
+        "packagesPath": "C:\\Users\\siphamandla.zolakhe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\siphamandla.zolakhe\\OneDrive - DSV\\Old-Personal-Hdrive\\DevOps\\Learning\\dotnet\\awssqs\\sqspublisher\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\siphamandla.zolakhe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AWSSDK.SQS": {
+              "target": "Package",
+              "version": "[3.7.200.55, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.111\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

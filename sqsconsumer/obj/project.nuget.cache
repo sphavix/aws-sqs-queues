@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ORE70LiT+TdyRqr9UspkvUKyRfulRm4lRUgIxWhzVDizXJcWoZTH3qsp7sQ8p585VO6zlmHnAQhlV7jgnDR4bQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\siphamandla.zolakhe\\OneDrive - DSV\\Old-Personal-Hdrive\\DevOps\\Learning\\dotnet\\awssqs\\sqsconsumer\\sqsconsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\siphamandla.zolakhe\\.nuget\\packages\\awssdk.core\\3.7.204.1\\awssdk.core.3.7.204.1.nupkg.sha512",
+    "C:\\Users\\siphamandla.zolakhe\\.nuget\\packages\\awssdk.sqs\\3.7.200.55\\awssdk.sqs.3.7.200.55.nupkg.sha512"
+  ],
+  "logs": []
+}
